@@ -62,13 +62,15 @@ Get the newest build from **[Releases](../../releases/latest)**. Pick the file f
 
 ## Free and Full
 
-|  | **Free** | **Darkrooms Full** |
-|---|:---:|:---:|
-| Rolls | one a day, up to 36 frames | every roll |
-| Computers | any | up to two |
-| Price | free, with a Google account | **US$2.99** a month or **US$14.99** once |
+| | Free | Darkrooms Full |
+|---|---|---|
+| Rolls a day | 1, of up to 36 frames (the same roll again that day doesn't count) | as many as you like |
+| Every film, full size, EXIF, contact sheets | ✓ | ✓ |
+| *Fast*: every core at once | | ✓ |
+| Price | free, with a Google account | **US$2.99 a month** or **US$14.99 once** (checkout shows your currency), updates included |
 
 Buy Full in the program: click the badge at the top right and sign in with Google.
+One Google account works on two computers at a time, Free or Full.
 A monthly plan can be cancelled any time in the program (*Manage the subscription*); it stays on until the end of
 the month paid for. [Privacy](https://darkrooms-licence.suphalapruksasathit.workers.dev/privacy).
 
