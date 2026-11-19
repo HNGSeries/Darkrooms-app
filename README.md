@@ -82,5 +82,5 @@ the month paid for. [Privacy](https://darkrooms-licence.suphalapruksasathit.work
 
 <p align="center">
   <sub>This repository holds Darkrooms' builds and release notes only.<br>
-  Darkrooms 0.2.1 and older were published in <a href="https://github.com/HNGSeries/mfilm-canon-film-simulation/releases?q=Darkrooms&expanded=true">M-Film's releases</a>.</sub>
+  Darkrooms 0.2.1 and older were published in <a href="https://github.com/HNGSeries/mfilm-canon-film-simulation/releases?q=Darkrooms&expanded=true">M-Film's releases</a>, and 0.2.2 went there as well, so those versions find their update.</sub>
 </p>
